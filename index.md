@@ -8,8 +8,8 @@ Jiaqi is a Ph.D. student in the [School of Electrical, Computer and Energy Engin
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Power System**
+- **Machine Learning**
 
 ## Education
 
