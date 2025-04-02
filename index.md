@@ -8,11 +8,6 @@ I am a Ph.D. student in the [School of Electrical, Computer and Energy Engineeri
 
 I hold a B.Sc. in Electrical Engineering from [Shandong University, Jinan, China](https://en.sdu.edu.cn), and an M.Sc. from [Arizona State University](https://www.asu.edu). I was honored to receive the University Graduate Fellowship in 2021.
 
-## Research Interests
-
-- **Power System**
-- **Machine Learning**
-
 ## Education
 
 - *2021 - 2026*, **Ph.D. in Electrical Engineering**, Arizona State University, Tempe, AZ, USA.
