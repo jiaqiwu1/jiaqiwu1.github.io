@@ -2,13 +2,13 @@
 title: Jiaqi Wu
 position: Ph.D. Student
 affiliation: Arizona State University
-email: jiaqiwu1 at asu dot edu
+email: jiaqiwu1[at]asu[dot]edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Jiaqi Wu, Smart Grid, Power Systems, Machine Learning, Data-Driven Application, ICNN, OPF
 description: Jiaqi Wu's personal academic homepage. Research interests include machine learning for power systems.
-canonical: https://wujiaqi-doz.github.io/
+canonical: https://jiaqiwu1.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -20,8 +20,8 @@ linkedin: https://www.linkedin.com/in/jiaqi-wu-35b615241/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.jpg
-favicon: ./assets/img/asu.png
-favicon_dark: ./assets/img/asu.png
+favicon: ./assets/img/ASU_logo_light.png
+favicon_dark: ./assets/img/ASU_logo_dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
