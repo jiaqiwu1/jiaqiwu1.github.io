@@ -7,4 +7,3 @@ main:
     pdf: ./assets/files/DHC_PESGM.pdf
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
