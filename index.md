@@ -18,6 +18,20 @@ Jiaqi is a Ph.D. student in the [School of Electrical, Computer and Energy Engin
 - **B.Sc. in Electrical Engineering**, Shandong University — *2013-2017*
 - **Undergraduate Exchange Program**, Xi'an Jiaotong University — *2014-2015*
 
+## Experience
+
+- **Research Associate**, Arizona State University, Tempe, AZ, USA - *Aug. 2021 – Present*
+
+- **Teaching Associate**, Arizona State University, Tempe, AZ, USA  
+  *Aug. 2021 – May 2022, Aug. 2024 – Present*
+
+- **Graduate Service Assistant**, Arizona State University, Tempe, AZ, USA  
+  *Dec. 2020 – Aug. 2021*
+
+- **Undergraduate Service Assistant**, Shandong University, Jinan, China  
+  *Mar. 2013 – Jun. 2014, Sep. 2015 – Jun. 2016*
+
+
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/experience.md %}
+
