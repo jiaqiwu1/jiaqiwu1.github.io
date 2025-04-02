@@ -14,7 +14,7 @@ Jiaqi is a Ph.D. student in the [School of Electrical, Computer and Energy Engin
 ## Education
 
 - **Ph.D. in Electrical Engineering**, Arizona State University — *Expected in 2026*
-- **M.Sc. in Electrical Engineering**, Arizona State University — *2021-2023*
+- **M.Sc. in Electrical Engineering**, Arizona State University — *2019-2021*
 - **B.Sc. in Electrical Engineering**, Shandong University — *2013-2017*
 - **Undergraduate Exchange Program**, Xi'an Jiaotong University — *2014-2015*
 
