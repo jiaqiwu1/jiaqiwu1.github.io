@@ -1,8 +1,22 @@
 main:
 
+  - title: A Unified Approach to Enforce Non-Negativity Constraint in Neural Network Approximation for Optimal Voltage Regulation
+    authors: <strong>Jiaqi Wu</strong>, Jingyi Yuan, Yang Weng, and Guangwen Wang
+    conference_short: HICSS
+    conference: 58th Hawaii International Conference on System Sciences <strong>(HICSS)</strong>, 2025.
+    pdf: ./assets/files/DHC_PESGM.pdf
+    bibtex: ./assets/files/DHC_PESGM.txt
+
   - title: Learn Dynamic Hosting Capacity Based on Voltage Sensitivity Analysis
     authors: <strong>Jiaqi Wu</strong>, Jingyi Yuan, Yang Weng, and Raja Ayyanar
     conference_short: PESGM
     conference: IEEE Power & Energy Society General Meeting <strong>(PESGM)</strong>, 2023.
+    pdf: ./assets/files/DHC_PESGM.pdf
+    bibtex: ./assets/files/DHC_PESGM.txt
+
+  - title: Spatial-Temporal Deep Learning for Hosting Capacity Analysis in Distribution Grids
+    authors: <strong>Jiaqi Wu</strong>, Jingyi Yuan, Yang Weng, and Raja Ayyanar
+    conference_short: TSG
+    conference: IEEE Transactions on Smart Grid, vol. 14, no. 1, 2023.
     pdf: ./assets/files/DHC_PESGM.pdf
     bibtex: ./assets/files/DHC_PESGM.txt
