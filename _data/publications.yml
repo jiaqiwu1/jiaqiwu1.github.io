@@ -1,4 +1,10 @@
 main:
+  - title: SVR-Enhanced Optimization for Voltage Control in Observability-Limited Distribution Systems
+    authors: Jingyi Yuan, <strong>Jiaqi Wu</strong>, Yang Weng, and Erik Blasch
+    conference_short: PESGM
+    conference: IEEE Power & Energy Society General Meeting <strong>(PESGM)</strong>, 2025.
+    pdf: ./assets/files/DHC_PESGM.pdf
+    bibtex: ./assets/files/DHC_PESGM.txt
 
   - title: A Unified Approach to Enforce Non-Negativity Constraint in Neural Network Approximation for Optimal Voltage Regulation
     authors: <strong>Jiaqi Wu</strong>, Jingyi Yuan, Yang Weng, and Guangwen Wang
