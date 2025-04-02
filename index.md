@@ -11,12 +11,12 @@ Jiaqi is a Ph.D. student in the [School of Electrical, Computer and Energy Engin
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-## News
+## Education
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Ph.D. in Electrical Engineering**, Arizona State University — *Expected in 2026*
+- **M.Sc. in Electrical Engineering**, Arizona State University — *2021-2023*
+- **B.Sc. in Electrical Engineering**, Shandong University — *2013-2017*
+- **Undergraduate Exchange in Electrical Engineering**, Xi'an Jiaotong University — *2014-2015*
 
 {% include_relative _includes/publications.md %}
 
