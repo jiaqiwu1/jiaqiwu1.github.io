@@ -20,4 +20,4 @@ Jiaqi is a Ph.D. student in the [School of Electrical, Computer and Energy Engin
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/experience.md %}
