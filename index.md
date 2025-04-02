@@ -6,14 +6,14 @@ layout: homepage
 
 I am a Ph.D. student in the [School of Electrical, Computer and Energy Engineering](https://ecee.engineering.asu.edu/) at [Arizona State University, Tempe, AZ, USA](https://www.asu.edu), where I am fortunate to be advised by [Dr. Yang Weng](https://www.public.asu.edu/~yweng2/). My research lies at the intersection of **machine learning** and **power systems**, with a particular focus on data-driven methods for smart grid applications.
 
-I hold a B.Sc. in Electrical Engineering from [Shandong University, Jinan, China](https://en.sdu.edu.cn), and an M.Sc. from [Arizona State University](https://www.asu.edu). I was honored to receive the University Graduate Fellowship in 2021.
+I hold a B.Sc. in Electrical Engineering from [Shandong University, Jinan, Shandong, China](https://en.sdu.edu.cn), and an M.Sc. from [Arizona State University](https://www.asu.edu). I was honored to receive the University Graduate Fellowship in 2021.
 
 ## Education
 
-- *2021 - 2026*, **Ph.D. in Electrical Engineering**, Arizona State University, Tempe, AZ, USA.
-- *2019 – 2021*, **M.Sc. in Electrical Engineering**, Arizona State University, Tempe, AZ, USA.
-- *2013 – 2017*, **B.Sc. in Electrical Engineering**, Shandong University, Jinan, Shandong, China.
-- *2014 – 2015*, **Undergraduate Exchange Program**, Xi’an Jiaotong University, Xi’an, Shaanxi, China.
+- *2021 - 2026*, **Ph.D. in Electrical Engineering**, Arizona State University.
+- *2019 – 2021*, **M.Sc. in Electrical Engineering**, Arizona State University.
+- *2013 – 2017*, **B.Sc. in Electrical Engineering**, Shandong University.
+- *2014 – 2015*, **Undergraduate Exchange Program**, Xi’an Jiaotong University.
 
 ## Research Experience
 
