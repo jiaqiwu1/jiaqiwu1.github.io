@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Jiaqi is a Ph.D. student in the [School of Electrical, Computer and Energy Engineering](https://ecee.engineering.asu.edu/) of [Arizona State University, Tempe, AZ, U.S.](https://www.asu.edu), supervised by [Prof. Yang Weng](https://www.public.asu.edu/~yweng2/).  His research interests are in the interdisciplinary area of artificial intelligence applications in electrical engineering. He received his B.Sc. degree in electrical engineering from [Shandong University, Jinan, China](https://en.sdu.edu.cn/) and his M.Sc. degree in electrical engineering from [Arizona State University, Tempe, AZ, U.S.](https://www.asu.edu). He received a University Graduate Fellowship in 2021. 
 
 ## Research Interests
 
